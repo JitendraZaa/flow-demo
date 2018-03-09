@@ -2,6 +2,8 @@
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
+### This repository is used for [this Trailhead module](https://trailhead.salesforce.com/modules/heroku-flow/units/create-a-heroku-pipeline-and-run-review-apps)
+
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
